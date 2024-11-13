@@ -10,7 +10,7 @@ It's not the best, but it works (most of the time).
 ```bash
 apt install libconfig-simple-perl libfile-slurp-perl
 ```
-- A `.env` file in the same directory as the script. If located elsewhere, modify the script accordingly! The .env file content should include:
+- A `.env` file in the same directory as the script. If located elsewhere, modify the script accordingly! The `.env` file content should include:
 
 ```plaintext
 # Authorization token for notifications
